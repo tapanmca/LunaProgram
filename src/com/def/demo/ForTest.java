@@ -4,7 +4,7 @@ public class ForTest {
 
 	public static void main(String[] args) {
 		char[] ASD={'D','A','D'};
-		// TODO Auto-generated method stub 
+		// TODO Auto-generated method stub asdgbhyu
 		//Tapan kumar Rout
 		for(int i=0;i<4;i++ )
 		{
