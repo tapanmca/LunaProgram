@@ -5,6 +5,7 @@ public class ForTest {
 	public static void main(String[] args) {
 		char[] ASD={'D','A','D'};
 		// TODO Auto-generated method stub
+		//Tapan kumar Rout
 		for(int i=0;i<4;i++ )
 		{
 			if(i==3)
